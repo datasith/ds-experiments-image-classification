@@ -1,4 +1,6 @@
 # Repository specific
+*datasets
+.DS_Store
 *.jpg
 
 # Byte-compiled / optimized / DLL files
